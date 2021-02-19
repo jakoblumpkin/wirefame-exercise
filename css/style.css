@@ -1,0 +1,76 @@
+header {
+  display: flex;
+  background-color: #444;
+  height: 100px;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  position: relative;
+  margin: auto;
+  left: -45px;
+}
+li {
+  color: white;
+  margin-right: 115px;
+}
+
+#headerImage {
+  margin-left: 45%;
+  position: relative;
+  top: 12px;
+}
+
+main {
+  width: 960px;
+  text-align: center;
+  display: inline;
+  margin: auto 0;
+}
+#leftPhoto {
+  position: relative;
+  left: -25px;
+}
+#rightPhoto {
+  position: relative;
+  left: 25px;
+}
+
+#firstS {
+  position: relative;
+  top: 40px;
+}
+
+#secondS {
+  position: relative;
+  top: 80px;
+}
+
+#thirdS {
+  position: relative;
+  top: 120px;
+  display: flex;
+  left: 185px;
+}
+
+#textCenter {
+  width: 25%;
+  position: relative;
+  left: 60px;
+}
+
+footer {
+  background-color: #444;
+  height: 120px;
+  position: relative;
+  top: 160px;
+}
+
+button {
+  background-color: black;
+  color: white;
+  float: left;
+  width: 40%;
+  height: 30px;
+}
